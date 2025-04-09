@@ -15,7 +15,8 @@ Možnosti menija za običajni prikaz (kot zaokrožen na najbližje celo število
 Vrednosti kalibracije so shranjene v notranji EEProm, tako da jih je treba izvesti samo enkrat
 
 # KOSOVNICA
-![image](https://github.com/user-attachments/assets/645d1051-5b76-41cb-8464-4574448682b9)
+![image](https://github.com/user-attachments/assets/a5c06b4d-4be9-496d-b1d3-1e89ffcd99ee)
+
 
 # SKICA, NAČRT IN MODEL
 Model in načrt je izdelal Urban Valentič.
